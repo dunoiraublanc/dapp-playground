@@ -4,6 +4,8 @@ resolver = "2"
 members = [
     "petition",
     "zk-average-salary",
+    "ping",
+    "zk-voting-simple"
 ]
 
 [workspace.package]
