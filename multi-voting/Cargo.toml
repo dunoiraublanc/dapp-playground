@@ -1,5 +1,5 @@
 [package]
-name = "petition"
+name = "multi-voting-contract"
 readme = "README.md"
 version.workspace = true
 description.workspace = true
